@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nev3x
+- 👀 I’m interested in C#, python, java
+- 🌱 I’m currently learning springboot
+- 📫 How to reach me:
+- Discord: nev3x.py
